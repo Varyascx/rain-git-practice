@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-
+\\\\\изменения
 int main()
 {
     const int DAYS = 30;
